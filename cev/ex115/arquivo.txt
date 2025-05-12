@@ -1,0 +1,7 @@
+Genifer;20
+Gustavo;19
+Nicolas;13
+Gabriel;8
+Oliver;6
+Daniel;18
+Valeria;28
